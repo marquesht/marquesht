@@ -1,8 +1,9 @@
-# Olá, eu sou o [Seu Nome Completo]! 👋
+# Olá, eu sou o Arthur Marques! 👋
 
-* 👨‍💻 Sou estudante de Sistemas de Informação na PUC Minas e atuo como Suporte de Informátoca.
-* 📚 Estudando Python(Django) e SQL. / Aprimorando minhas habilidades em React e API.
-* 🖥️ Formado em Técnico em Informática pelo IFMG.
+* 👨‍💻 Sou estudante de Sistemas de Informação na PUC Minas e atuo como Suporte de Informática.
+* 📚 Atualmente, estou focado em aprimorar minhas habilidades em **Python (Django)** e **SQL**.
+* 🚀 Explorando e desenvolvendo projetos com **React** e **APIs**.
+* 🎓 Sou formado em Técnico em Informática pelo IFMG.
 
 ---
 
@@ -15,15 +16,13 @@
 
 ### Tecnologias que Gosto de Usar:
 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-![Oracale](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg)
-![PL/SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg)
-
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> ---
 
 ### Meus Links:
 
