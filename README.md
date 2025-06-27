@@ -8,7 +8,7 @@
 
 ### Arthur Marques's GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marqusht&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marquesht&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marquesht&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
